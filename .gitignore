@@ -1,0 +1,10 @@
+target/*
+project/target/*
+project/project/target/*
+lib_managed/*
+submission/*
+.idea
+.idea_modules
+.classpath
+.project
+.settings
